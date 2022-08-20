@@ -1,1 +1,18 @@
 # Google-Drokess-prince
+
+(1)    site:www.google.com সকল websid ডুমেইন সব গুলো দেখা যাবে।
+
+(2)    related: যে লেখা উপর প্রতেক websid তে থাকবে।
+
+(3)    inurl: PHP.Xtml.java.python দিয়ে তৈরি করা websid গুলো দেখা যাবে।
+
+(4)    intitle: websid তে যে টাইটেল থাকে ঐটাইটেল অনুযায়ি খুজা।
+
+(5)   filetype: jpg.pdf ইত্যাদি ফাইল খুজা।
+
+(6)    intex: text যুক্ত websid খুজে বাহির করা
+
+(7)   defined: দিয়ে কোনো কিছু ক্রয় কিত ডিবাইজ খুজা।
+
+
+(8)    intitel: syber filetype:pdg ইত্যাদি খুজা। 
