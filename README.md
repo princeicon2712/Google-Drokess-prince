@@ -1,5 +1,6 @@
+---
 # Google-Drokess-prince
-
+---
 (1)    ``` site:www.google.com সকল websid ডুমেইন সব গুলো দেখা যাবে। ```
 
 (2)    ``` related: যে লেখা উপর প্রতেক websid তে থাকবে। ```
